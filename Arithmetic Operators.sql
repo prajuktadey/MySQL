@@ -1,0 +1,18 @@
+SELECT 5 + 3;
+
+SELECT 5 - 3;
+
+SELECT 5% 3;
+
+SELECT 5/0;
+-- Gives NULL
+
+SELECT 5 * 3;
+
+SELECT 5 / 3;
+
+SELECT 5 DIV 3;
+
+SELECT 5 MOD 3;
+
+
