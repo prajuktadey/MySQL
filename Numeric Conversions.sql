@@ -1,0 +1,17 @@
+SELECT 32742;
+
+SELECT HEX(32742);
+-- Hexadecimal 
+
+SELECT OCT(32742);
+-- Octal
+
+SELECT BIN(32742);
+-- Binary
+
+SELECT CONV('32742',10,16);
+-- convert from base 10 to 16
+
+SELECT CONV('7FE6',16,10);
+
+SELECT CONV('28K6',24,2);
