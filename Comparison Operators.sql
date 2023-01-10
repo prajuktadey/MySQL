@@ -1,0 +1,15 @@
+SELECT 0=1;
+SELECT 1=1;
+-- 1 is TRUE and 0 is FALSE
+
+SELECT '0.1' >0;
+
+SELECT 9!=7;
+
+SELECT 9<=7;
+
+SELECT (9>4) AND (19>7);
+
+SELECT (9 > 8) IS TRUE;
+
+SELECT (9 > 8) IS NOT TRUE;
